@@ -1,0 +1,13 @@
+{
+  "name": "ndjs-002",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "ndjs-date": "./date.js",
+    "magic-number": "./magic-number.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
